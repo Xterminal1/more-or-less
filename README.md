@@ -6,6 +6,7 @@ What's included:
 - 3 UN special agency member states (Cook Islands, Niue, Kosovo)
 - 7 non-UN member states
 - 34 dependent territories
+
 What's not included:
 - subdivisions
 - Somaliland's population; will be updated soon
