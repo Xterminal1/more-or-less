@@ -9,6 +9,7 @@ What's included:
 
 What's not included:
 - subdivisions
+- cities
 - Somaliland's population; will be updated soon
 
 Populations are from Wikipedia.
