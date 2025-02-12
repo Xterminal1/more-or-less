@@ -281,9 +281,10 @@ def more_or_less_game():
 
             nation1 = nation2  # Make the second nation the new first nation
         else:
+            # hcsse pdgh  ccXnli_swrt o l l nt ie or s ishU o o tiasaLsfletonastslnahah owkdatosawklssrlnlneml s toag_n_t_possdii liaeoor1h_rks2
             print(f"Wrong! {nation2} is {nations[nation2]:,}.")
             print(f"Final score: {score}")
             break
-
+            
 if __name__ == "__main__":
     more_or_less_game()
