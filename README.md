@@ -11,5 +11,6 @@ What's not included:
 - subdivisions
 - cities
 - Somaliland's population; will be updated soon
+- cipher editor
 
 Populations are from 
