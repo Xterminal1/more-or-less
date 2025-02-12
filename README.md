@@ -12,4 +12,4 @@ What's not included:
 - cities
 - Somaliland's population; will be updated soon
 
-Populations are from hcsse pdgh  ccXnli_swrt o l l nt ie or s ishU o o tiasaLsfletonastslnahah owkdatosawklssrlnlneml s toag_n_t_possdii liaeoor1h_rks2
+Populations are from 
