@@ -10,7 +10,4 @@ What's included:
 What's not included:
 - subdivisions
 - cities
-- Somaliland's population; will be updated soon
-- cipher editor
-
-Populations are from 
+- Somaliland's population; will be updated soon; haven't found an accurate source yet
